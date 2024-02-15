@@ -1,0 +1,8 @@
+.inputStyle{
+    display: flex;
+    flex-direction: column;
+}
+.birthday {
+    width: max-content;
+    height: max-content;
+}
